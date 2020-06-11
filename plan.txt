@@ -1,0 +1,8 @@
+1 - The three-men morris
+
+1 - Board - Matrix 3x3
+
+2 - algorithm to decide if we have a winner
+
+3 - User Interface - controls
+
